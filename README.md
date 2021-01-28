@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello world! 👋
+
+I'm Isaac Thompson and I program a lot in my spare time. Lately I've been experimenting with web design.
 
 <!--
 **isaact23/isaact23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
