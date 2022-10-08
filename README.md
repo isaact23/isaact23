@@ -1,6 +1,7 @@
-# Howdy
+# It's spooky season
 
-I'm Isaac Thompson! Here is some of my stuff.
+This year's halloween project is brought to you by C++
+https://github.com/isaact23/lightshowcpp
 
 * website - https://www.isaact.net/
 * itch.io - https://shufflesninja.itch.io/
