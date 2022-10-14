@@ -1,7 +1,6 @@
 # It's spooky season
 
-This year's halloween project is brought to you by C++
-https://github.com/isaact23/lightshowcpp
+Halloween project 2022 - https://github.com/isaact23/its-a-me
 
 * website - https://www.isaact.net/
 * itch.io - https://shufflesninja.itch.io/
