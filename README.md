@@ -1,4 +1,4 @@
-# It's spooky season
+# Howdy
 
 Halloween project 2022 - https://github.com/isaact23/its-a-me
 
