@@ -1,6 +1,6 @@
 # Howdy
 
-Halloween project 2022 - https://github.com/isaact23/its-a-me
+Currently working on projects powered by OpenAI!
 
 * website - https://www.isaact.net/
 * itch.io - https://shufflesninja.itch.io/
