@@ -1,6 +1,6 @@
 # Howdy
 
-Currently working on projects powered by OpenAI!
+Working on a new project, stay tuned...
 
 * website - https://www.isaact.net/
 * itch.io - https://shufflesninja.itch.io/
