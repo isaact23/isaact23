@@ -1,6 +1,6 @@
 # Howdy
 
-Working on a new project, stay tuned...
+I've switched away from Github but am still working on projects!
 
 * website - https://www.isaact.net/
 * itch.io - https://shufflesninja.itch.io/
